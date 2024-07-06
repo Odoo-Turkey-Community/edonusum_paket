@@ -1,0 +1,12 @@
+[submodule "currency"]
+	path = currency
+	url = git@github.com:OCA/currency.git
+	branch = 16.0
+[submodule "e_donusum"]
+	path = e_donusum
+	url = git@github.com:Odoo-Turkey-Community/e_donusum.git
+	branch = 16.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 16.0
